@@ -21,6 +21,7 @@ public class RestaurantDao {
     Statement st=null;
     String sql;
     boolean flag = false;
+	Boolean resultStatus=Boolean.FALSE;
     
     public boolean AddRestaurantData(RestaurantBean b) {
 		sql = "insert into addrestaurant(rname,address,countrySelect,citySelect,price,foodtype,restType,ownername,mobileno,email,password,status) values(?,?,?,?,?,?,?,?,?,?,?,?)";

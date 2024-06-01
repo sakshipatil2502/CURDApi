@@ -62,6 +62,7 @@
            <li><a class="nav-link scrollto" href="AddRestaurant.jsp">Add Restaurant</a></li>
           <li><a class="nav-link scrollto" href="UserLogin.jsp">User</a></li>
          <li><a class="nav-link scrollto" href="AdminLogin.jsp">Admin</a></li>
+         <li><a class="nav-link scrollto" href="Customer.jsp">Customer</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>

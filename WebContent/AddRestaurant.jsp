@@ -80,6 +80,7 @@
            <li><a class="nav-link scrollto" href="AddRestaurant.jsp">Add Restaurant</a></li>
           <li><a class="nav-link scrollto" href="UserLogin.jsp">User</a></li>
          <li><a class="nav-link scrollto" href="AdminLogin.jsp">Admin</a></li>
+     
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
